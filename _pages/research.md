@@ -12,29 +12,39 @@ redirect_from:
 Job Market Paper
 ======
 Intensity Bursts in WallStreetBets Discussion
-and Stock Markets Trading
-* Co-author: [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)
+and Stock Markets Trading 
+(With [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
+and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 * Abstract: This study examines the impact of social media activity on stock market dynamics, focusing on upsurges (intensity bursts, IBs) in Reddit's WallStreetBets (WSB) submissions. By analysing trading turnover, returns, and short-selling activities, we reveal that IBs lead to significant increases in trading turnover and stock returns, with discussions inside regular trading hours (RTH) having a more pronounced impact than the ones outside RTH. Conversely, we find that high levels of short-selling pressure prior to IB events, suggesting complex dynamics associated with short selling. Our findings highlight the crucial role of social media discussion timing in influencing market movements, contributing to the understanding of social finance dynamics.
-* Presented at: Financial Econometrics Conference to mark Stephen Taylor’s Retirement, Sofia University, 2023 Nippon Finance Association Annual Conference, 12th International Conference of the Financial Engineering and Banking Society (FEBS), 2024 BAFA
+* Presentations (\*by co-author): 
+  Financial Econometrics Conference to mark Stephen Taylor’s Retirement, 
+  Sofia University*, 
+  2023 Nippon Finance Association Annual Conference*, 
+  12th International Conference of the Financial Engineering and Banking Society (FEBS), 
+  2024 British Accounting and Finance Association (BAFA) Annual Conference 
 
 Publication
 ======
-[Vocabulary Herfindahl Index (Vocahin): Linguistic Dominance and Collective Effervescence in Wallstreetbets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4763485)
-* Co-author [Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)
+[Vocabulary Herfindahl Index (Vocahin): Linguistic Dominance and Collective Effervescence in Wallstreetbets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4763485) 
+(With [Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), 
+[Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
+and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)), 
+Economics Letters, Forthcoming
 * Abstract: Analysis of over 150,000 WallStreetBets comments identifies dominant phrases during Collective Effervescence (CE), a state where individuals experience collective excitements and solidarity. With our proposed Vocabulary Herfindahl Index (VocaHIn), measuring the prevalence of specific phrases, we find an upsurge in stock returns volatility following CE and similarly, CE tends to intensify after experiencing a volatile market.
-* Accepted by Economics Letters, upcoming issues
-
+* Accepted by Economics Letters
 
 Work in Progress
 ======
-LLM and Transparency in Supply Chains (with [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
+LLM and Transparency in Supply Chains 
+(with [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 * In this paper, we apply a state-of-art Large Language Model 
   to evaluate Social reports related to business supply chains. 
   We also explore a number of factors that are crucial for 
   evaluating corporate disclosure quality.
-* Presented at: 2022 BAM
+* Presentations: 2022 British Academy of Management (BAM)
 
-User Patterns in Financial Social Media (with [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
+User Patterns in Financial Social Media 
+(with [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 * In this paper, we implement Prompt Engineering, the process 
   of structuring an instruction that can be interpreted and 
   understood by a generative AI model, in specific financial 
