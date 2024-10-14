@@ -94,7 +94,7 @@ Professional Experience
     the strategy and the programming trading system.
   * Built sentiment factors in the Chinese stock market by 
     applying BERT from Google.
-  * Implement Factor Mimicking Portforlio from BlackRock on 
+  * Implement Factor Mimicking Portfolio from BlackRock on 
     economic growing risk and inflation risk.
 
 * Spring 2018: Intern, East Area Management Dept., Ping An Medical
