@@ -37,13 +37,16 @@ and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 
 Publication
 ======
-[Vocabulary Herfindahl Index (Vocahin): Linguistic Dominance and Collective Effervescence in Wallstreetbets](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4763485) 
+[Vocabulary Herfindahl Index (Vocahin): Linguistic Dominance and Collective Effervescence in Wallstreetbets](https://www.sciencedirect.com/science/article/pii/S0165176524005111) 
 (With [Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), 
 [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
 and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)), 
-Economics Letters, Forthcoming
-* Abstract: Analysis of over 150,000 WallStreetBets comments identifies dominant phrases during Collective Effervescence (CE), a state where individuals experience collective excitements and solidarity. With our proposed Vocabulary Herfindahl Index (VocaHIn), measuring the prevalence of specific phrases, we find an upsurge in stock returns volatility following CE and similarly, CE tends to intensify after experiencing a volatile market.
-* Accepted by Economics Letters
+Economics Letters, 2024
+* Abstract: Our analysis of over 150,000 WallStreetBets comments reveals dominant 
+  phrases when members of the community experience collective excitement and 
+  solidarity (Collective Effervescence). Using the novel Vocabulary Herfindahl 
+  Index (VocaHIn), we find that stock returns volatility increases after CE, 
+  and vice versa.
 
 Work in Progress
 ======
