@@ -47,7 +47,7 @@ and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 
 Publication
 ======
-[Hayakawa, K., Otsubo, Y., Poon, S. H., & Wei, S. (2024), ‘Vocabulary herfindahl index (vocahin): Linguistic dominance and collective effervescence in wallstreetbets’, Economics Letters 244, 112027.](https://www.sciencedirect.com/science/article/pii/S0165176524005111)  
+[Hayakawa, K., Otsubo, Y., Poon, S. H., & Wei, S. (2024), ‘Vocabulary Herfindahl Index (Vocahin): Linguistic dominance and collective effervescence in WallStreetBets, Economics Letters 244, 112027.](https://www.sciencedirect.com/science/article/pii/S0165176524005111)  
 (With [Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), 
 [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
 and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
