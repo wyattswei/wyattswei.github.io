@@ -15,7 +15,17 @@ Intensity Bursts in WallStreetBets Discussion
 and Stock Markets Trading 
 (With [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
 and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
-* Abstract: This study examines the impact of social media activity on stock market dynamics, focusing on upsurges (intensity bursts, IBs) in Reddit's WallStreetBets (WSB) submissions. By analysing trading turnover, returns, and short-selling activities, we reveal that IBs lead to significant increases in trading turnover and stock returns, with discussions inside regular trading hours (RTH) having a more pronounced impact than the ones outside RTH. Conversely, we find that high levels of short-selling pressure prior to IB events, suggesting complex dynamics associated with short selling. Our findings highlight the crucial role of social media discussion timing in influencing market movements, contributing to the understanding of social finance dynamics.
+* Abstract: Our study introduces the concept of WallStreetBets (WSB) submission 
+  intensity bursts (IB), offering a novel perspective by distinguishing varying 
+  levels of social media activity. Using a Difference-in-Differences approach, 
+  we establish a causal link between IBs and key market outcomes, including trading 
+  turnover, daily and overnight abnormal returns. We further find that IBs during 
+  regular trading hours (RTH) have a stronger and more lasting impact on stock 
+  returns compared to those outside RTH, with swift reversals observed on a 
+  half-day basis. Additionally, stocks targeted by WSB users typically exhibit 
+  a decrease in short interest ratios following an IB, suggesting the WSB users 
+  may anticipate short squeeze opportunities, adding strategic nuance to social 
+  media’s market influence.
 * Presentations (\*by co-author): 
   Financial Econometrics Conference to mark Stephen Taylor’s Retirement, 
   Sofia University*, 
@@ -25,11 +35,10 @@ and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 
 Publication
 ======
-[Vocabulary Herfindahl Index (Vocahin): Linguistic Dominance and Collective Effervescence in Wallstreetbets](https://www.sciencedirect.com/science/article/pii/S0165176524005111) 
+[Hayakawa, K., Otsubo, Y., Poon, S. H., & Wei, S. (2024), ‘Vocabulary herfindahl index (vocahin): Linguistic dominance and collective effervescence in wallstreetbets’, Economics Letters 244, 112027.](https://www.sciencedirect.com/science/article/pii/S0165176524005111)  
 (With [Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), 
 [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
-and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)), 
-Economics Letters, 2024
+and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
 * Abstract: Our analysis of over 150,000 WallStreetBets comments reveals dominant 
   phrases when members of the community experience collective excitement and 
   solidarity (Collective Effervescence). Using the novel Vocabulary Herfindahl 
