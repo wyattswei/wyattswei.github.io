@@ -11,10 +11,10 @@ redirect_from:
 
 Job Market Paper
 ======
-Intensity Bursts in WallStreetBets Discussion
-and Stock Markets Trading 
+[Intensity Bursts in WallStreetBets Discussion
+and Stock Markets Trading](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030887) 
 (With [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
-and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ))
+and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ), available on SSRN)
 * Abstract: Our study introduces the concept of WallStreetBets (WSB) submission 
   intensity bursts (IB), offering a novel perspective by distinguishing varying 
   levels of social media activity. Using a Difference-in-Differences approach, 
