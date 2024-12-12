@@ -125,7 +125,7 @@ Professional Experience
   
 Skills
 ======
-* Python, Matlab, Stata, R, C++, HTML, Latex, SPSS, Eviews
+* Python, Matlab, Stata, R, C++, HTML, SQL, Latex, SPSS, Eviews
 * Machine learning, Natural language processing, Deep learning
 
 Languages
