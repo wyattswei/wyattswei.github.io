@@ -4,7 +4,8 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - "/resume/"
+  - "/resume.html"
 ---
 
 [Download my CV (pdf)](/files/CV_Siliang WEI.pdf)
