@@ -26,7 +26,7 @@ author:
   name             : "SILIANG (Wyatt) WEI"
   pronouns         : "he/his"
   bio              : "PhD candidate in Finance at AMBS (Empirical Asset Pricing, ESG, Machine Learning, Natural Language Processing, Behavioural Finance)"
-  location         : "Manchester, UK"
+  location         : # Location
   employer         : "https://www.alliancembs.manchester.ac.uk"
   uri              : # URL
   email            : "siliang.wei@manchester.ac.uk"
