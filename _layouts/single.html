@@ -35,9 +35,12 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> 📚 {{ page.type }} </p>
-          <p> 🏫 <i>{{ page.venue }}</i> </p>
-          <p> 🗓️ {{ page.academic_year }}, 👤 {{ page.role}} </p>
+          <p>
+            <span>📚 {{ page.type }}</span><br>
+            <span>🏫 <i>{{ page.venue }}</i></span><br>
+            <span>🗓️ {{ page.academic_year }}</span><br>
+            <span>👤 {{ page.role }}</span>
+          </p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
