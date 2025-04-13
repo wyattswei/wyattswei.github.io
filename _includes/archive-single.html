@@ -39,7 +39,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> 📚 {{ post.type }}, 🎓 <i>{{ post.venue }}</i>, 🗓️ {{ post.academic_year }} </p>
+          <p> 📚 {{ post.type }} </p>
+          <p> 🎓 <i>{{ post.venue }}</i> </p>
+          <p> 🗓️ {{ post.academic_year }} </p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
