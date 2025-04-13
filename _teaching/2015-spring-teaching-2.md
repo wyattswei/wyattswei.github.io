@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "BMAN30091 Financial Derivatives"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate (UG) Course"
+permalink: /teaching/bman30091-financial-derivatives
+venue: "Alliance Manchester Business School, University of Manchester"
+academic_year: 2021-2024
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Received 2022 AMBS Teaching Excellence with 4.9/5
+* Deliver workshops in both hybrid and in-person formats 
+    (Up to 4 hours/times a week)
+* Held office hours and answered questions via online forum and email 
