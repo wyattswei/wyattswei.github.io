@@ -85,6 +85,7 @@ Teaching Experience
   * Delivered workshops in both hybrid and in-person formats 
     (Up to 4 hours/times a week)
   * Held office hours and answered questions via online forum and email  
+
 ### Course Assistant
 * BMAN63012 Interest Rate Derivatives (PGT, 2021-2022)
   * Prepared course materials for the lecturer
