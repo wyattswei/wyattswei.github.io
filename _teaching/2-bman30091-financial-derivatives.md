@@ -5,6 +5,7 @@ type: "Undergraduate (UG) Course"
 permalink: /teaching/bman30091-financial-derivatives
 venue: "Alliance Manchester Business School, University of Manchester"
 academic_year: 2021-2024
+role: Teaching Assistant
 ---
 
 * Received 2022 AMBS Teaching Excellence with 4.9/5
