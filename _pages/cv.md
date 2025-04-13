@@ -82,7 +82,7 @@ Teaching Experience
 ### Teaching assistant
 * BMAN30091 Financial Derivatives (UG, 2021-2024)
   * Received 2022 AMBS Teaching Excellence with 4.9/5
-  * Deliver workshops in both hybrid and in-person formats 
+  * Delivered workshops in both hybrid and in-person formats 
     (Up to 4 hours/times a week)
   * Held office hours and answered questions via online forum and email  
 * BMAN63012 Interest Rate Derivatives (PGT, 2021-2022)
@@ -111,7 +111,7 @@ Professional Experience
     the strategy and the programming trading system.
   * Built sentiment factors in the Chinese stock market by 
     applying BERT from Google.
-  * Implement Factor Mimicking Portfolio from BlackRock on 
+  * Implemented Factor Mimicking Portfolio from BlackRock on 
     economic growing risk and inflation risk.
 
 * Spring 2018: Intern, East Area Management Dept., Ping An Medical
@@ -136,6 +136,7 @@ Languages
 Other Studies
 ======
 * Built up a web portal for labelling text data by Python and Flask.
+* Presented talks related to DeFi.
 * Gave internal presentations and held workshops to explain machine learning and neural network to colleagues from different background.
 * Master Dissertation: Implemented artificial neural network (FNN, RNN and LSTM) to predict stock realised volatility.
 * Built up a multinomial logistic model to predict issues of 

@@ -8,6 +8,6 @@ academic_year: 2021-2024
 ---
 
 * Received 2022 AMBS Teaching Excellence with 4.9/5
-* Deliver workshops in both hybrid and in-person formats 
+* Delivered workshops in both hybrid and in-person formats 
     (Up to 4 hours/times a week)
 * Held office hours and answered questions via online forum and email 
