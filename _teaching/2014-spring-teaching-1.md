@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "BMAN63012 Interest Rate Derivatives"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+type: "Postgraduate Taught (PGT) Course"
+permalink: /teaching/bman63012-interest-rate-derivatives
+venue: "Alliance Manchester Business School, University of Manchester"
 date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+* Prepared course materials for the lecturer
 
 Heading 1
 ======
