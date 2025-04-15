@@ -80,7 +80,7 @@ publication_category:
   jmp:
     title: 'Job Market Paper'
   journals:
-    tilte: 'Publications'
+    tilte: 'Journal Publications'
   workingpapers:
     title: 'Working Papers'
   workinprogress:
