@@ -79,8 +79,8 @@ author:
 publication_category:
   jmp:
     title: 'Job Market Paper'
-  publications:
-    title: 'Publications'
+  journals:
+    title: 'Journal Publications'
   workingpapers:
     title: 'Working Papers'
   workinprogress:
