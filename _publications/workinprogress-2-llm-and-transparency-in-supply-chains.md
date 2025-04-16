@@ -2,7 +2,7 @@
 title: "LLM and Transparency in Supply Chains "
 collection: publications
 category: workingpapers
-permalink: /publications/llm-and-transparency-in-supply-chains 
+permalink: /publications/llm-and-transparency-in-supply-chains
 excerpt: ''
 coauthor: '[Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)'
 ---
