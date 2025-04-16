@@ -1,14 +1,18 @@
 ---
-title: "Paper Title Number 2"
+title: "Vocabulary Herfindahl Index (Vocahin): Linguistic dominance and collective effervescence in WallStreetBets"
 collection: publications
 category: journals
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publications/vocabulary-herfindahl-index
+excerpt: ''
+coauthor: '[Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), 
+[Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
+and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)'
+venue: 'Economics Letters 244, 112027'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0165176524005111'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+* Abstract: Our analysis of over 150,000 WallStreetBets comments reveals dominant 
+  phrases when members of the community experience collective excitement and 
+  solidarity (Collective Effervescence). Using the novel Vocabulary Herfindahl 
+  Index (VocaHIn), we find that stock returns volatility increases after CE, 
+  and vice versa.
