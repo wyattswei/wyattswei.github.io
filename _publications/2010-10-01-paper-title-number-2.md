@@ -7,7 +7,7 @@ excerpt: ''
 coauthor: '[Ko Hayakawa](https://www.researchgate.net/profile/Ko_Hayakawa), 
 [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) 
 and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)'
-venue: 'Economics Letters 244, 112027'
+venue: 'Economics Letters, Volume 244, November 2024, 112027'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0165176524005111'
 ---
 
