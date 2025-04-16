@@ -2,9 +2,8 @@
 title: "Intensity Bursts in WallStreetBets Discussion and Stock Markets Trading"
 collection: publications
 category: jmp
-permalink: /publication/intensity-bursts-in-wallstreetbets-discussion-and-stock-markets-trading
+permalink: /publications/intensity-bursts-in-wallstreetbets-discussion-and-stock-markets-trading
 excerpt: ''
-coauthor: [Yoichi Otsubo](https://scholar.google.com/citations?user=ravVQhcAAAAJ) and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ)
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030887'
 ---
