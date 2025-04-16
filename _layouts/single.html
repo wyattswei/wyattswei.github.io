@@ -42,7 +42,7 @@ layout: default
             <span>👤 {{ page.role }}</span>
           </p>
         {% elsif page.venue and page.coauthor %}
-          <p>(With {{ page.coauthor }} in <i>{{ page.venue }}</i>)</p>
+          <p>(With {{ page.coauthor | markdownify}} in <i>{{ page.venue }}</i>)</p>
         {% elsif page.venue %}
           <p>(Solo in <i>{{ page.venue }}</i>)</p>
         {% elsif page.date %}
