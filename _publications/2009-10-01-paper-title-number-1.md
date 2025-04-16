@@ -3,6 +3,7 @@ title: "Intensity Bursts in WallStreetBets Discussion and Stock Markets Trading"
 collection: publications
 category: jmp
 permalink: /publication/intensity-bursts-in-wallstreetbets-discussion-and-stock-markets-trading
+excerpt: ''
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5030887'
 ---
