@@ -47,7 +47,8 @@
           </p>
         {% elsif post.collection == 'publications' %}
           {% if post.coauthor %}
-            <p>(With {{ post.coauthor | markdownify}} in <i>{{ post.venue }}</i>)</p>
+            {% assign coauthors = post.coauthor | markdownify %}
+            <p>(With {{ coauthors | remove: '<p>' | remove: '</p>' }} in <i>{{ post.venue }}</i>)</p>
           {% else %}
             <p>(Solo in <i>{{ post.venue }}</i>)</p>
           {% endif %}
