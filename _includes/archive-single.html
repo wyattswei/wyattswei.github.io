@@ -50,7 +50,7 @@
             {% assign coauthors = post.coauthor | markdownify %}
             <p>(With {{ coauthors | remove: '<p>' | remove: '</p>' }} in <i>{{ post.venue }}</i>)</p>
           {% elsif post.venue %}
-            <p>(Solo in <i>{{ page.venue }}</i>)</p>
+            <p>(Solo in <i>{{ post.venue }}</i>)</p>
           {% elsif post.coauthor %}
             {% assign coauthors = post.coauthor | markdownify %}
             <p>(With {{ coauthors | remove: '<p>' | remove: '</p>' }})</p>
