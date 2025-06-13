@@ -44,7 +44,8 @@ and [Ser-Huang Poon](https://scholar.google.co.uk/citations?user=cSrJhbIAAAAJ), 
   Sofia University*, 
   2023 Nippon Finance Association Annual Conference*, 
   12th International Conference of the Financial Engineering and Banking Society (FEBS), 
-  2024 British Accounting and Finance Association (BAFA) Annual Conference 
+  2024 British Accounting and Finance Association (BAFA) Annual Conference, 
+  Finance and Business Analytics Conference (FBA) Edition III
 
 Publication
 ======
