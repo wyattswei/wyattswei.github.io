@@ -8,12 +8,12 @@ redirect_from:
   - "/resume.html"
 ---
 
-[Download my CV (pdf)](/files/CV_Siliang WEI.pdf)
+[Download my CV](/files/CV_Siliang WEI.pdf) (Last updated: Sep 2025)
 {% include base_path %}
 
 Education
 ======
-* PhD in Finance, The University of Manchester, 2025 (expected)
+* PhD in Finance, The University of Manchester, 2025
 * MSc in Quantitative Finance, The University of Manchester, 2019
 * BA in Economics (Finance), Shandong University, 2018
 
