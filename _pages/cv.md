@@ -11,6 +11,10 @@ redirect_from:
 [Download my CV](/files/CV_Siliang WEI.pdf) (Last updated: Sep 2025)
 {% include base_path %}
 
+Appointments
+======
+* Bayes Fellow in Banking and Finance, City St George’s, University of London, 2025
+
 Education
 ======
 * PhD in Finance, The University of Manchester, 2025
