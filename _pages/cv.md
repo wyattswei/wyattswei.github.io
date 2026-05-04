@@ -19,7 +19,7 @@ Education
 ======
 * PhD in Finance, The University of Manchester, 2025
 * MSc in Quantitative Finance, The University of Manchester, 2019
-* BA in Economics (Finance), Shandong University, 2018
+* BSc in Economics (Finance), Shandong University, 2018
 
 Research Interests
 ======

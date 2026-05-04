@@ -13,9 +13,9 @@ My name is Siliang Wei. You can also call me Wyatt.
 I am currently a Bayes Fellow in Banking and Finance at 
 Bayes Business School (formerly Cass), City St George's, University of London. 
 Before joining Bayes, I completed my PhD at Alliance Manchester Business School, 
-The University of Manchester. My current research interest lies in 
+the University of Manchester. My current research interest lies in 
 applying Machine Learning and Natural Language Processing (NLP) techniques 
-to the fields of Empirical Asset Pricing and ESG (CSR) research.
+in the fields of Empirical Asset Pricing, Behavioural Finance and ESG (CSR).
 
 In my leisure time, I enjoy reading, hiking, 
 watching/playing football, and making/drinking coffee.
