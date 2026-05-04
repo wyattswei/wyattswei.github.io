@@ -1,7 +1,7 @@
 ---
 title: "BMAN63012 Interest Rate Derivatives"
 collection: teaching
-type: "Postgraduate Taught (PGT) Course"
+type: "Postgraduate Taught (PGT)"
 permalink: /teaching/bman63012-interest-rate-derivatives
 venue: "Alliance Manchester Business School, The University of Manchester"
 academic_year: 2021-2022

@@ -1,7 +1,7 @@
 ---
 title: "BMAN30091 Financial Derivatives"
 collection: teaching
-type: "Undergraduate (UG) Course"
+type: "Undergraduate (UG)"
 permalink: /teaching/bman30091-financial-derivatives
 venue: "Alliance Manchester Business School, The University of Manchester"
 academic_year: 2021-2024
