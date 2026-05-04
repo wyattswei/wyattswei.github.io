@@ -44,8 +44,8 @@
               <span>🏫 <i>{{ post.venue }}</i></span><br>
             {% endunless %}
             <span>👤 {{ post.role }}</span> ·
-            <span>📚 {{ post.type }}</span><br> ·
-            <span>🗓️ {{ post.academic_year }}</span><br>
+            <span>📚 {{ post.type }}</span> ·
+            <span>🗓️ {{ post.academic_year }}</span>
           </p>
         {% elsif post.collection == 'publications' %}
           {% if post.venue and post.coauthor %}
