@@ -36,10 +36,11 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p>
-            <span>📚 {{ page.type }}</span><br>
             <span>🏫 <i>{{ page.venue }}</i></span><br>
-            <span>🗓️ {{ page.academic_year }}</span><br>
             <span>👤 {{ page.role }}</span>
+            <span>📚 {{ page.type }}</span><br>
+            <span>🗓️ {{ page.academic_year }}</span><br>
+
           </p>
         {% elsif page.venue and page.coauthor %}
           {% assign coauthors = page.coauthor | markdownify %}
