@@ -41,7 +41,9 @@
         {% if post.collection == 'teaching' %}
           <p>
             <span>📚 {{ post.type }}</span><br>
-            <span>🏫 <i>{{ post.venue }}</i></span><br>
+            {% unless include.hide_teaching_venue %}
+              <span>🏫 <i>{{ post.venue }}</i></span><br>
+            {% endunless %}
             <span>🗓️ {{ post.academic_year }}</span><br>
             <span>👤 {{ post.role }}</span>
           </p>

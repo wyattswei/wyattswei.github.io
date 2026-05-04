@@ -4,6 +4,7 @@ collection: teaching
 type: "Postgraduate Taught (PGT)"
 permalink: /teaching/bman63012-interest-rate-derivatives
 venue: "Alliance Manchester Business School, The University of Manchester"
+venue_order: 2
 academic_year: 2021-2022
 role: Course Assistant
 ---

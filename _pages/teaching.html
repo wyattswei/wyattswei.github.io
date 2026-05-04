@@ -13,3 +13,17 @@ author_profile: true
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+{% assign teaching_items = site.teaching | sort: "venue_order"
+%}
+{% assign teaching_by_venue = teaching_items | group_by: "venue"
+%}
+
+{% for venue_group in teaching_by_venue %}
+  <h2>{{ venue_group.name }}</h2>
+
+  {% assign venue_modules = venue_group.items | reverse %}
+  {% for post in venue_modules %}
+    {% include archive-single.html hide_teaching_venue=true %}
+  {% endfor %}
+{% endfor %}
