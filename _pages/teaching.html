@@ -10,9 +10,6 @@ author_profile: true
 <p><em> Feedback from students: Students really like the clear
   and step-by-step explanations as well as the added explanations on the board. </em></p>
 
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
 {% assign teaching_items = site.teaching | sort: "venue_order"
 %}
